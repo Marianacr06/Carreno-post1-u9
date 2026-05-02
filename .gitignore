@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# PDFs del enunciado (no subir)
+*.pdf
+
+# Java/Maven build outputs
+**/target/
+
+# IDE
+.vscode/
+.idea/
+*.iml
